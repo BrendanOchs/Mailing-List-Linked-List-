@@ -1,0 +1,464 @@
+A
+Chip        
+Chopper     
+111 Airway          
+Butte       
+MT
+85529
+A
+Mike        
+Epson       
+297 Sessions Street 
+Hanover     
+PA
+20324
+A
+Andrew      
+Bell        
+384 Pascal Avenue   
+Fort Worth  
+TX
+65502
+A
+Terri       
+Wells       
+3414 Spring Drive   
+Lawton      
+OK
+62091
+A
+Janet       
+Vandyke     
+2542 Symbol Lane    
+Dundalk     
+MD
+21222
+A
+Connie      
+Hunger      
+123 Crumley Cir     
+Valdosta    
+GA
+30602
+A
+Ellen       
+Planters    
+6 Party Way         
+Happytrails 
+NY
+07331
+A
+Robert      
+Lee         
+21 Confederate Lane 
+Leesburg    
+VA
+27781
+A
+Ulyssis     
+Grant       
+4 Union Court       
+Yonkers     
+NY
+07495
+A
+George      
+Patton      
+1944 Army Hwy       
+Columbus    
+OH
+37890
+A
+Sara        
+Lee         
+21 Confederate Lane 
+Leesburg    
+VA
+27781
+A
+Martha      
+Washington  
+45 Virgina Ave      
+Sumpner     
+NC
+29881
+A
+George      
+Pickett     
+1 Emmittsburg Road  
+Gettysburg  
+PA
+20111
+A
+Rip         
+Torne       
+444 Sissors Ct      
+Detroit     
+MI
+37001
+P
+A
+JoAnn       
+Reisen      
+45 Sable Palm Dr    
+Jacksonville
+FL
+31545
+C
+Janet       
+Vandyke     
+2
+Zieler      
+A
+Georigia    
+Justice     
+1492 Balance Circle 
+Tacoma      
+WA
+88290
+A
+Barry       
+Goldwater   
+358 Glitter Road    
+Flagstaff   
+AZ
+79455
+D
+Ellen       
+Planters    
+A
+Joy         
+Butler      
+5643 Heavens Way    
+Provo       
+UT
+70276
+A
+Scott       
+Bowie       
+7123 Western Road   
+Fargo       
+ND
+56702
+A
+Frank       
+Nelson      
+991 Main Street     
+Eugene      
+OR
+90023
+A
+Marie       
+Sandfort    
+7629 Plains Ave     
+RapidCity   
+SD
+59913
+P
+A
+Patsy       
+Cline       
+1961 Song Blvd      
+Bolder      
+CO
+69030
+A
+Debbie      
+Ford        
+445 Terminal Dr     
+Lincoln     
+NE
+68445
+A
+Linda       
+Waters      
+334 Northside Dr    
+Bangor      
+ME
+02396
+C
+Martha      
+Washington  
+5
+SC
+A
+John        
+Dough       
+99 Sunset Blvd      
+Seaside     
+NH
+06675
+A
+Evan        
+Zapinski    
+101 Mercury Lane    
+Crossroads  
+VT
+11022
+A
+Edward      
+Kennedy     
+1969 Bridge Road    
+Boston      
+MA
+12292
+A
+Margaret    
+York        
+72 Mountain Road   
+Raleigh     
+NC
+25569
+A
+Bobby       
+Knight      
+1997 Ball Court     
+Indianapolis
+IN
+44667
+A
+Kirby       
+Puckett     
+65 Rose Ave         
+St.Paul     
+MN
+55992
+A
+Carrol      
+Upton       
+9 Cross Road        
+Indiangap   
+WY
+70882
+C
+Frank       
+Nelson      
+3
+6001 First Street   
+A
+Rico        
+Kota        
+711 Chance Street   
+Reno        
+NV
+83452
+A
+Charlie     
+Farmer      
+25 Potato Place     
+Boise       
+ID
+80023
+A
+Lisa        
+Anderson    
+2001 Utah Street    
+CedarRapids 
+IA
+60245
+A
+Donald      
+Isway       
+15 Maryland Ave     
+Topeka      
+KS
+69923
+P
+A
+Louis       
+Free        
+88 Wichita Road     
+Tulsa       
+OK
+73392
+A
+Tracy       
+Roberts     
+1917 Page Drive     
+Shrevesport 
+LA
+40023
+A
+Amy         
+Noble       
+10452 Dream Street  
+Hope        
+AR
+55392
+A
+Albert      
+Bundy       
+11 Sandy Circle     
+Bigtree     
+MO
+64511
+C
+Donald      
+Isway       
+4
+Wichita     
+A
+Oscar       
+Madison     
+7 Blueberry Drive   
+Paducah     
+KY
+40227
+A
+Nancy       
+Oscar       
+55 Hall Way         
+Nashville   
+TN
+44332
+A
+April       
+Patterson   
+1997 Spring Way     
+Birmingham  
+AL
+39982
+A
+Karl        
+Stewart     
+456 Count Blvd      
+Tupulo      
+MS
+40023
+D
+Carrol      
+Upton       
+D
+Dan         
+Kota        
+D
+Rico        
+Mays        
+P
+A
+Jennifer    
+Tilman      
+9 Iceberg PLace     
+Nome        
+AK
+99345
+A
+Wendy       
+King        
+299 Value Place     
+Trenton     
+NJ
+10982
+A
+Kathy       
+Davison     
+1973 Murphy Dr      
+Rohobath    
+DE
+11292
+A
+Peter       
+Quig        
+1678 Moose Drive    
+Hartford    
+CT
+08334
+A
+Joyce       
+Vanderwall  
+1967 Lesley Way     
+Providence  
+RI
+07622
+A
+Wyatt       
+Earp        
+1870 Gunfight Dr    
+Tombstone   
+AZ
+87652
+C
+Connie      
+Hunger      
+1
+Constance   
+D
+Louis       
+Free        
+A
+Tom         
+DoLittle    
+1942 Pacific Drive  
+San Jose    
+CA
+91234
+A
+Sara        
+Miles       
+76 Sunset Blvd      
+SantaFe     
+NM
+72294
+A
+Albert      
+Bell        
+1243 Lake Ave       
+Chicago     
+IL
+55466
+A
+Betty       
+White       
+1020 Jupiter Dr     
+Madison     
+WI
+57723
+A
+Thomas      
+Jefferson   
+1776 Independence   
+Montpilier  
+VA
+26690
+P
+A
+Robert      
+Lee         
+21 Confederate Lane 
+Leesburg    
+VA
+27781
+C
+Tom         
+DoLittle    
+3
+1945 Hawaii Cir     
+A
+Tuesday     
+Nelson      
+1616 West Ave       
+Tampa       
+FL
+32239
+C
+Kathy       
+Davison     
+6
+11229
+D
+Albert      
+Einstein    
+D
+Linda       
+Waters      
+D
+John        
+Dough       
+D
+Chip        
+Chopper     
+D
+Rico        
+Kota        
+P
+Q
